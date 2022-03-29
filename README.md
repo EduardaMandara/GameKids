@@ -1,4 +1,4 @@
-# GameKids
+# Game Kids
 
 # Projeto em andamento 🚧 
 
