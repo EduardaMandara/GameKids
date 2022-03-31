@@ -3,4 +3,46 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: aquamarine;
+}
+
+input {
+    border: none;
+    color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    font-family: inherit;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    color:rgb(255, 0, 140);
+    padding: 15px;
+}
+
+.animals {
+    display: grid;
+    grid-template-columns: repeat(8, 4fr);
+    gap: 30px; 
+    background-color: #dfd766;
+    border-radius: 30px;
+    padding: 30px;
+}
+  
+input[type=button] {
+  border-radius: 20px;
+  cursor: pointer;
+  font-family: 'Montserrat', sans-serif;
+  height: 80px;
+  width: 80px;
 }
