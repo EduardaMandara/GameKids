@@ -22,8 +22,10 @@ h1 {
     padding: 15px;
 }
 
-.grid .animals {
+.grid .row__animals {
     display: flexbox;
     align-items: center;
     justify-content: space-between;
+    padding: 2px;
+    margin: 10px;
 }
