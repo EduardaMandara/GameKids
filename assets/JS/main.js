@@ -1,1 +1,3 @@
-document.querySelector('.animal__baleia');
+function somDeBeluga () {
+    document.querySelector('#som__beluga').play();
+}

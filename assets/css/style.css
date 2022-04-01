@@ -4,6 +4,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 body {
@@ -28,4 +30,18 @@ h1 {
     justify-content: space-between;
     padding: 2px;
     margin: 10px;
+}
+
+#beluga img {
+    max-width: 100%;
+    max-height: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+#pica-pau img {
+    max-width: 100%;
+    max-height: 100%;
+    width: 200px;
+    height: 200px;
 }
