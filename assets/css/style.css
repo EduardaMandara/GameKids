@@ -14,12 +14,12 @@ body {
     align-items: center;
     flex-direction: column;
     min-height: 100vh;
-    background-color: aquamarine;
+    background-color: aqua;
 }
 
 h1 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 24px;
+    font-size: 24px bold;
     color:rgb(255, 0, 140);
     padding: 15px;
 }
@@ -30,20 +30,15 @@ h1 {
     justify-content: space-between;
     padding: 2px;
     margin: 10px;
+    border-radius: 200px
 }
 
-#beluga img {
+.grid .row__animals img {
     max-width: 100%;
     max-height: 100%;
-    width: 200px;
+    width: 300px;
     height: 200px;
-}
-
-#pica-pau img {
-    max-width: 100%;
-    max-height: 100%;
-    width: 200px;
-    height: 200px;
+    border-radius: 100px;
 }
 
 .footer {
