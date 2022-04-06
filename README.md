@@ -4,7 +4,7 @@
 
 Similar ao jogo da velha, mas um game com fotos de animais e quando clicado ele emitirá o som do animal. 
 
-Minha inspiração para este projeto foi minha filha, ela ama animais e sempre fazemos este jogo cm ela, porém, pelo browser mesmo. 
+Minha inspiração para este projeto foi minha filha, ela ama animais e sempre fazemos este jogo com ela, porém, pelo browser mesmo. 
 
 ![Game Kids](https://user-images.githubusercontent.com/97032776/162030739-8d47ccd1-9471-4d04-a62d-53f7939ea14b.gif)
 
